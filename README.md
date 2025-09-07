@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Hello+👋,+I'm+Akshar!;Builder+of+Code+%26+Logic;Exploring+Web+%7C+Data+Science+%7C+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Hello+👋,+I'm+Akshar!;Builder+of+Code+%26+Logic;Xxploring+Web+%7C+Data+Science+%7C+Apps" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">I am a passionate builder of code, diving into websites, data science alchemy, and apps that blend logic with creativity.</h3>
