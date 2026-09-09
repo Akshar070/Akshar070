@@ -22,7 +22,6 @@
 
 <p align="left">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=akshar070&show_icons=true&locale=en" alt="akshar070" />
-  <img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTRucWo0cjcyM2Y2MGFiNjhuNWcycjFoa2lldmRzam5ocmM0amJjNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="250" alt="Coding Gif" />
 </p>
 
 
