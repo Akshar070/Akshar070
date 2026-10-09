@@ -25,7 +25,7 @@ SWE | AI/ML | Linux | India 🇮🇳
 
 <pre>
 ┌──(akshar㉿universe)-[~]
-└─$ whoami
+└─$ arsenal
 
 [ IDENTITY ]  THE GHOST IN THE MACHINE
 [ DOMAIN   ]  AI / ML • AUTONOMOUS SYSTEMS
