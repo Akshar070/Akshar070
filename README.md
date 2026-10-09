@@ -1,6 +1,10 @@
- <div align="center">
-  <img width="100%" src="https://github.com/Akshar070/Akshar070/blob/main/assets/Attack%20On%20Titan%20GIF.gif" alt="Anime banner"/>
-  <br/>
+<div align="center">
+  <img
+    src="https://github.com/Akshar070/Akshar070/blob/main/assets/Attack%20On%20Titan%20GIF.gif"
+    width="600"
+    alt="Anime cover"
+  />
+</div>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=17&duration=2500&pause=800&color=00FF9C&center=true&vCenter=true&width=650&lines=NO+GUI.+JUST+CLI.;power+is+POWER.;sudo+become+GOD;THE+SYSTEM+WAS+BUILT+TO+BE+UNDERSTOOD." alt="Terminal animation"/>
 </div>
 
